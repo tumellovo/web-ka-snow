@@ -6,7 +6,7 @@ This repository captures my early steps into the world of web development. Think
 
 ---
 
-## 🌐 What's Inside
+##  What's Inside
 
 Here’s a sneak peek into what this repo contains:
 
@@ -18,7 +18,7 @@ Each file is a hands-on response to specific exercises and topics covered in an 
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This project is:
 - A personal record of my web development progress
@@ -29,7 +29,7 @@ If you’re a beginner too, feel free to peek inside and see how I’m figuring 
 
 ---
 
-## 💡 What You'll See
+##  What You'll See
 
 -  Proper HTML structure
 -  Headings, paragraphs, and links
@@ -38,7 +38,7 @@ If you’re a beginner too, feel free to peek inside and see how I’m figuring 
 
 ---
 
-## 🛠️ How to View
+##  How to View
 
 1. Clone or download the repository.
 2. Open any of the `.html` files in your browser.
@@ -46,14 +46,14 @@ If you’re a beginner too, feel free to peek inside and see how I’m figuring 
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - This isn’t a polished final project—it’s more like a creative learning sandbox.
 - I plan to upload more “modules” as I move forward through the course.
 
 ---
 
-## 📖 License
+##  License
 
 This project is primarily for educational use, but it’s shared under the [MIT License](LICENSE) – feel free to explore or remix!
 
