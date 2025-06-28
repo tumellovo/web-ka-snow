@@ -31,10 +31,10 @@ If you’re a beginner too, feel free to peek inside and see how I’m figuring 
 
 ## 💡 What You'll See
 
-- ✅ Proper HTML structure
-- ✅ Headings, paragraphs, and links
-- ✅ Lists (both fancy and plain!)
-- ✅ Images and styling with CSS
+-  Proper HTML structure
+-  Headings, paragraphs, and links
+-  Lists (both fancy and plain!)
+-  Images and styling with CSS
 
 ---
 
