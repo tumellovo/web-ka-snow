@@ -50,6 +50,10 @@ If you’re a beginner too, feel free to peek inside and see how I’m figuring 
 
 - This isn’t a polished final project—it’s more like a creative learning sandbox.
 - I plan to upload more “modules” as I move forward through the course.
+- The `style.css` file in this folder was **not** created during Week 1.
+  It was added later in **Week 2**, when we started learning CSS.
+
+  We returned to this HTML project to practice applying basic styles.
 
 ---
 
